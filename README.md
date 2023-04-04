@@ -1,6 +1,6 @@
 Olá, tudo bem? 
 
-Nesse projeto você vai encontrar um tela de login e a primmeira tela de acesso do colocaborador dentro do ambiente logado da Winx :)
+Nesse projeto você vai encontrar um tela de login e a primeira tela de acesso do colaborador dentro do ambiente logado da Winx :)
 
 como acessar dentro do projeto:
 
