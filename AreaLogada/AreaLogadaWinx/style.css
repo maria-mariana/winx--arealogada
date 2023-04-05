@@ -55,7 +55,6 @@ li {
 }
 .icon-colorido {
   width: 100%;
-  margin-bottom: 9px;
 }
 .containerheader {
   display: flex;
@@ -78,9 +77,9 @@ li {
 }
 .estiloHomem {
   position: absolute;
-  top: 197px;
+  top: 187px;
   width: 120px;
-  margin-left: -80px;
+  margin-left: -140px;
 }
 h2 {
   color: #001943;
@@ -154,14 +153,7 @@ h6 {
 @media screen and (max-width: 901px) {
   .estiloHomem {
     position: absolute;
-    top: 205px;
-    width: 105px;
-  }
-}
-@media screen and (max-width: 899px) {
-  .estiloHomem {
-    position: absolute;
-    top: 245px;
+    top: 237px;
     width: 105px;
   }
 }
@@ -188,9 +180,9 @@ h6 {
   }
   .estiloHomem {
     position: absolute;
-    top: 110px;
+    top: 105px;
     width: 105px;
-    margin-left: 130px;
+    margin-left: 160px;
   }
   .containerItem,
   .cardMobile {
